@@ -13,5 +13,10 @@ O desafio proposto pela empresa RaiaDrogasil era desenvolver um sistema de gest�
 | `JavaScript` |  Linguagem de programação interpretada estruturada |
 | `Material UI` | Biblioteca de estilização |
 | `Firebase` | Plataforma BaaS do Google|
+| `Chart.js` | Biblioteca para criação de gráficos|
 | `Git e GitHub` | Sistemas de controle de versões distribuídos |
 | `Figma` | Editor gráfico de vetor e prototipagem de projetos |
+
+
+https://user-images.githubusercontent.com/75817559/142001068-76e2e0f5-e78e-4e86-8228-67b82b598c0a.mp4
+
